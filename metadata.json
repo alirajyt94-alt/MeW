@@ -1,0 +1,6 @@
+{
+  "name": "OptiClean",
+  "description": "Smart app cache cleaner and RAM memory optimizer with real-time usage statistics and automated daily cleanups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

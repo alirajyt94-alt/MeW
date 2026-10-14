@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OptiClean</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_apps">App Cache</string>
+    <string name="tab_scheduler">Schedule</string>
+    <string name="tab_history">History</string>
+
+    <string name="btn_boost_optimize">BOOST &amp; OPTIMIZE</string>
+    <string name="btn_quick_clean">Clean Junk &amp; Cache</string>
+    <string name="btn_deep_clean">System Storage Manager</string>
+    <string name="btn_refresh">Refresh Telemetry</string>
+
+    <string name="memory_usage_title">Real-Time RAM Usage</string>
+    <string name="storage_usage_title">Internal Storage</string>
+    <string name="junk_detected_title">Cleanable Junk &amp; Cache</string>
+    <string name="daily_schedule_title">Daily Automated Cleanup</string>
+    
+    <string name="status_optimized">System Smooth &amp; Optimized</string>
+    <string name="status_attention">Cache &amp; RAM Optimization Recommended</string>
+    <string name="status_cleaning">Optimizing memory and purging cache...</string>
+</resources>
